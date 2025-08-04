@@ -1,0 +1,6 @@
+export BROWSERSTACK_USERNAME="sureshb_I52wAf"
+export BROWSERSTACK_ACCESS_KEY="qjzqsisoxsRwY9JbJAQD"
+export APP_USERNAME="demouser"
+export APP_PASSWORD="testingisfun99"
+export BROWSERSTACK_BUILD_NAME="Automate Build #123"
+export BROWSERSTACK_PROJECT_NAME="bs-demo-cert"
