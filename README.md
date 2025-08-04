@@ -1,4 +1,4 @@
-## browserstack_app_automate
+# browserstack_app_automate
 
 End-to-end Appium tests on BrowserStack App Automate using Python, Pytest, and the BrowserStack SDK. Tests are run on Android devices using a sample `.apk` file.
 
