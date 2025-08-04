@@ -62,6 +62,7 @@ pytest -n 2 tests/
 Run a specific test file:
 ```Bash
 pytest tests/test_sample_2.py
+```
 
 ## 📁 Repo Structure
 
