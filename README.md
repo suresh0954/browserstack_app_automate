@@ -61,7 +61,7 @@ pytest -n 2 tests/
 ```
 Run a specific test file:
 ```Bash
-pytest tests/test_sample_2.py
+pytest tests/test_sample.py
 ```
 
 ## 📁 Repo Structure
@@ -69,7 +69,7 @@ pytest tests/test_sample_2.py
 ```
 browserstack_app_automate/
 ├── tests/
-│   └── test_sample_2.py
+│   └── test_sample.py
 ├── conftest.py
 ├── browserstack.yml
 ├── creds.sh
